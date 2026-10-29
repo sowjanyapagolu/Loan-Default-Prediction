@@ -1,0 +1,9 @@
+
+.venv/
+.venv_evidently310/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+mlflow.db
+mlruns/

@@ -1,0 +1,2 @@
+timestamp,income,loan_amount,credit_score,existing_debt,previous_defaults,default_probability,risk_level,predicted_default
+2026-10-26T20:34:35.493254,50000,15000,700,5000,0,0.5587,Medium,1
